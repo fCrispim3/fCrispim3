@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fCrispim3
-- 👀 I’m interested in: Programming languages, desktop development and web development
+- 👀 I’m interested in: Programming languages, desktop and web development
 - 🌱 I’m currently learning : Java, HTML 5, CSS, JavaScript
 - 📫 How to reach me: fcr.braga@gmail.com
 
